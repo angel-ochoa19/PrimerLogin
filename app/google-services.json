@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473920123970",
+    "project_id": "primerlogin-bd1a8",
+    "storage_bucket": "primerlogin-bd1a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473920123970:android:92e6586a46e98fe6a4e9db",
+        "android_client_info": {
+          "package_name": "com.enma.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrCmRHVxc6SLj1hVbUCPNJ1yi9vkoFBQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

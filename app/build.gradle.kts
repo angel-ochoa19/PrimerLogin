@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.enma.login"
+    namespace = "com.angel.login"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.enma.login"
+        applicationId = "com.angel.login"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

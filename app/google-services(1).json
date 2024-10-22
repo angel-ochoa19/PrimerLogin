@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "473920123970",
-    "project_id": "primerlogin-bd1a8",
-    "storage_bucket": "primerlogin-bd1a8.appspot.com"
+    "project_number": "392729033171",
+    "project_id": "proyectoprueba-74597",
+    "storage_bucket": "proyectoprueba-74597.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:473920123970:android:92e6586a46e98fe6a4e9db",
+        "mobilesdk_app_id": "1:392729033171:android:1ee2712de793a3a3bfd726",
         "android_client_info": {
-          "package_name": "com.enma.login"
+          "package_name": "com.angel.firebase"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCrCmRHVxc6SLj1hVbUCPNJ1yi9vkoFBQ8"
+          "current_key": "AIzaSyCo29OTGGhjrBPj3Kmvvc9P6VWXicdsXvk"
         }
       ],
       "services": {
